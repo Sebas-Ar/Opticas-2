@@ -8,8 +8,10 @@
     "start": "next start"
   },
   "dependencies": {
+    "math-erf": "^1.0.0",
     "next": "9.3.5",
     "react": "16.13.1",
-    "react-dom": "16.13.1"
+    "react-dom": "16.13.1",
+    "sweetalert2": "^9.13.1"
   }
 }
